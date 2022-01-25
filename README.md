@@ -5,7 +5,7 @@
 h1{ color:brown; font-family:"Lucida Handwriting",cursive;font-size:35px}
 p1{font-family:"Papyrus",fantasy;font-size:20px}
 </style></head>
-<body bgcolor="yellow" topmargin="70">
+<body style="background-color:pink;margin-top:"70">
 <center> 
 <h1>Hi guys</h1>
 <p1><b>Myself Aishwarya TS</b><br>I am coming from the royal city of Tripunithura, Ernakulam.I belong to computer science branch<br>

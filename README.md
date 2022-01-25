@@ -1,11 +1,12 @@
 
 <html>
   <head>
-<style>
+  <style>
 h1{ color:brown; font-family:"Lucida Handwriting",cursive;font-size:35px}
 p1{font-family:"Papyrus",fantasy;font-size:20px}
-</style></head>
-<body bgcolor="pink" topmargin="70">
+  </style>
+  </head>
+<body topmargin="70">
 <center> 
 <h1>Hi guys</h1>
 <p1><b>Myself Aishwarya TS</b><br>I am coming from the royal city of Tripunithura, Ernakulam.I belong to computer science branch<br>
@@ -15,6 +16,5 @@ It's a pleasure to be part of TinkerHub</p1>
 </center>
 </body>
 </html>
-  </body>
-  </html
+  
   
